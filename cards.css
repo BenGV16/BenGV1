@@ -1,0 +1,28 @@
+.card .card-picture img{
+    width: 100%;
+    border-radius: 8px;
+    background-color: white;
+}
+.card{
+    background-color: rgb(21, 15, 68);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 3rem;
+    transform: scale(1);
+    transition: 250ms ease-in-out all;
+}
+.card:hover{
+    box-shadow: 0px 2px 8px 4px rgba(72, 149, 192, 0.5);
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.card-content{
+    color: rgb(183, 141, 252);
+}
+
+.card-form{
+    background-color: rgb(21, 15, 68);
+    border-radius: 0.25rem;
+    padding: 1rem;
+    color: rgb(66, 78, 119);
+}

@@ -1,0 +1,12 @@
+.form-box label{
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: rgb(183, 141, 252);
+    padding: 0.5rem;
+}
+.form-box input{
+    width: 100%;
+    background-color: rgb(108, 92, 177);
+    border-radius: 0.25rem;
+}
