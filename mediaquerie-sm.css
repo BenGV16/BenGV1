@@ -1,5 +1,0 @@
-@media (max-widht: 476px){
-    .contact-grid{
-        grid-template-columns: 1fr;
-    }
-}
